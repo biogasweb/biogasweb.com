@@ -1,7 +1,7 @@
 import * as React from "react";
 import { Link } from "gatsby";
 
-import logo from "../img/logo.svg";
+// import logo from "../img/logo.svg";
 import facebook from "../img/social/facebook.svg";
 import instagram from "../img/social/instagram.svg";
 import twitter from "../img/social/twitter.svg";
@@ -10,18 +10,33 @@ import vimeo from "../img/social/vimeo.svg";
 const Footer = () => {
   
     return (
-      <footer className="footer has-background-black has-text-white-ter">
-        <div className="content has-text-centered">
+      <footer className="footer has-background-light">
+        {/* <div className="content">
+          
           <img
             src={logo}
             alt="Kaldi"
             style={{ width: "14em", height: "10em" }}
           />
-        </div>
-        <div className="content has-text-centered has-background-black has-text-white-ter">
-          <div className="container has-background-black has-text-white-ter">
+        </div> */}
+        <div className="content has-text-centered has-background-light has-text-white-ter">
+          <div className="container has-background-light has-text-white-ter">
             <div style={{ maxWidth: "100vw" }} className="columns">
               <div className="column is-4">
+                <p className="title is-family-sans-serif"
+                  style={{
+                    color: "#682680",
+                  }}
+                  > Biogasweb </p>
+                {/* Insert copyright info and other text */}
+                {/* <p>
+                  Made with love in Bulgaria.
+                </p>
+                <p>
+                  Copyright 2022 by Biogasweb OOD, Sofia, Bulgaria. All rights reserved.
+                </p> */}
+              </div>
+              {/* <div className="column is-4">
                 <section className="menu">
                   <ul className="menu-list">
                     <li>
@@ -56,10 +71,10 @@ const Footer = () => {
                     </li>
                   </ul>
                 </section>
-              </div>
+              </div> */}
               <div className="column is-4">
                 <section>
-                  <ul className="menu-list">
+                  {/* <ul className="menu-list">
                     <li>
                       <Link className="navbar-item" to="/blog">
                         Latest Stories
@@ -70,7 +85,7 @@ const Footer = () => {
                         Contact
                       </Link>
                     </li>
-                  </ul>
+                  </ul> */}
                 </section>
               </div>
               <div className="column is-4 social">
@@ -107,6 +122,19 @@ const Footer = () => {
             </div>
           </div>
         </div>
+        {/* <div className="content has-background-light has-text-white-ter">
+          <div className="container has-background-light">
+            <div style={{ maxWidth: "100vw" }} className="columns">
+              <div className="column is-4">
+                <p className="title is-family-sans-serif"
+                  style={{
+                    color: "#682680",
+                  }}
+                  > Biogasweb </p>
+              </div>
+            </div>
+          </div>
+        </div> */}
       </footer>
     );
 };

@@ -1,50 +1,43 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Recycle your food waste like nature does it
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Recycle your food waste like nature does it
+subheading: Stay tuned for our bio-waste recycling bin and learn how you can produce biogas and organic fertilizer at home and utilize your food waste.
 mainpitch:
-  title: Why Kaldi
+  title: none
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    none
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  none
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/IMG_20221106_152900839.jpg
+      head: What we do?
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
+        Developing a recycle bio- waste bin for the households. Anaerobic micro- digester to recycle food waste to byproducts – biogas and organic fertilizer, which can be used by you. Biogas is a natural gas consisting of methane and carbon dioxide, that can be used for heating and cooking.Organic fertilizer contains all the nutrients of food waste and can be used for the soil health and revitalisation. Urban designed for the limited space in the cities.
+    - image: /img/process-768x395.png
+      head: How it works?
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
+        We use the natural anaerobic process to recycle food waste. In an environment without oxygen microorganisms found in food waste naturally break it down into biogas and organic fertilizers.
+    - image: /img/IMG_20221119_115844360.jpg
+      head: What is your benefit?
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
+        You have the opportunity to use the produced biogas for heating and cooking and the organic fertilizer for the soil. You can also sell them as well.
+    - image: /img/IMG_20220412_134403420.jpg
+      head: What is the environmental impact?
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        Less greenhouse gases in the air, more nutrients in the soil.
+        <ul> Example: 
+        <li> 100 tons food waste per year will give: </li>
+        <li> 4 500 m3 biogas per year; </li>
+        <li> 98 tons organic fertilizer per year; </li>
+        <li> 10.77 tons CO2 compensation per year for electricity feed-in. </li>
+        </ul>
+    - image: /img/IMG_20170106_120202.jpg
+      head: Who are we?
+      text: >
+        We are a Bulgarian company that is responsible for the environment. We want to develop a sustainable circular economy solution that benefits you and the environment, soil and air at the same time.
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
